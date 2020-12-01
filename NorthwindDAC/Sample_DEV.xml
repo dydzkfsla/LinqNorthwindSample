@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <settings>
+    <add key="MyDB"><![CDATA[Server=dydrkfsladl.hopto.org;Database=Northwind;Uid=sa;Pwd=lee910613]]></add> 
+  </settings>
+</configuration>
